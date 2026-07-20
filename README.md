@@ -28,8 +28,6 @@
 
 ## 📌 Projects
 
-## 📌 Projects
-
 | Project | Description | Type |
 |---|---|---|
 | 🚗 AI Vehicle Gate Inspection System | YOLOv8-based multi-camera CCTV inspection system for PSO fuel terminals. Flask + SQLite, role-based access, PDF reports | 🏢 Professional |
